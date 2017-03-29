@@ -1,3 +1,1 @@
-# Table of Contents
-
-* [README](/README.md)
+doc/README.md
