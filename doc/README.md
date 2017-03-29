@@ -1,3 +1,2 @@
-# Table of Contents
+# Introduction
 
-* [README](/README.md)
